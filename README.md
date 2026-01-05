@@ -1,6 +1,7 @@
 Hello there 👋, I'm Linas!
 
 A Full-Stack Developer
+
 Computer Science Graduate | MERN & Next.js Developer
 
 Interested in building scalable, reliable web systems  
