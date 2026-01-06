@@ -1,4 +1,4 @@
-Hello there 👋, I'm Linas!
+Hey there 👋, I'm Linas!
 
 A Full-Stack Developer
 
