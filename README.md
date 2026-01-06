@@ -51,7 +51,11 @@ Currently, I’m deepening my knowledge in **system design**, **scalable backend
   <a href="https://linkedin.com/in/linasliyakath" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
+  <a href="https://www.instagram.com/linasliyakath?igsh=MXhvZ2pweW1nNHN3dQ==" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
 </div>
+
 
 <br/>
 
