@@ -1,15 +1,3 @@
-<!--
-    README inspired by modern GitHub profile designs.
-    Feel free to use this structure with your own customization ✨
--->
-
-<!-- Banner -->
-<br/>
-
-<!-- Profile stats -->
-
-
-<br/>
 
 <img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width="320" align="left">
 
