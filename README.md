@@ -4,24 +4,10 @@
 -->
 
 <!-- Banner -->
-<a href="https://github.com/linasliyakath">
-  <img src="./assets/banner.jpg" alt="Profile banner" style="width:100%; height:auto"/>
-</a>
-
 <br/>
 
 <!-- Profile stats -->
-<div align="center">
-<a href="https://github.com/linasliyakath">
-  <img width="180px"
-       src="https://komarev.com/ghpvc/?username=linasliyakath&label=Profile%20views&color=000000&style=for-the-badge"
-       alt="Profile views"/>
-</a>
-<a href="https://github.com/linasliyakath?tab=followers">
-  <img width="150px"
-       src="https://custom-icon-badges.herokuapp.com/github/followers/linasliyakath?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff"/>
-</a>
-</div>
+
 
 <br/>
 
@@ -110,7 +96,7 @@ Currently, I’m deepening my knowledge in **system design**, **scalable backend
 ---
 
 <p align="center">
-  <img 
+  <img
     src="https://capsule-render.vercel.app/api?type=waving&color=White&height=80&section=footer"
     width="100%" 
   />
