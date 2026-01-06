@@ -69,7 +69,8 @@ Currently, I’m deepening my knowledge in **system design**, **scalable backend
   <img src="https://skillicons.dev/icons?i=js,ts,html,css" /><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" /><br/>
   <img src="https://skillicons.dev/icons?i=mongodb,postman,git,github" /><br/>
-  <img src="https://skillicons.dev/icons?i=vercel,figma,notion" /><br/>
+  <img src="https://skillicons.dev/icons?i=vercel,figma,mysql,tailwind" /><br/>
+  <img src="https://skillicons.dev/icons?i=c,aws" /><br/>
 </div>
 
 <br/>
