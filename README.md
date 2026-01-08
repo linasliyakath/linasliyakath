@@ -63,6 +63,7 @@ Currently, I’m deepening my knowledge in **system design**, **scalable backend
  Currently Learning
 </h3>
 
+- Data structures and algorithms
 - System Design fundamentals  
 - Scalable backend architecture  
 - Distributed systems basics  
