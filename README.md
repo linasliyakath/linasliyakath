@@ -19,10 +19,6 @@ Currently, I’m deepening my knowledge in **system design**, **scalable backend
 
 </div>
 
-<br clear="left"/>
-
----
-
 <img align="right" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"/>
 
 <h3 align="center">
@@ -46,20 +42,6 @@ Currently, I’m deepening my knowledge in **system design**, **scalable backend
 
 
 <br/>
-
----
-
-<h3 align="center">
- GitHub Stats
-</h3>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=linasliyakath&theme=graywhite&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-
-</div>
-
----
 
 <h3 align="center">
  My Tech Stack
